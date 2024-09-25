@@ -1,0 +1,12 @@
+{
+  "name": "caseGFT",
+  "version": "1.0.0",
+  "description": "Projeto de Automação com Cypress e Cucumber",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^10.0.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}

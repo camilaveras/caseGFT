@@ -1,0 +1,29 @@
+# Dependências do Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Variáveis de ambiente
+.env
+cypress.env.json
+
+# Cypress outputs
+cypress/videos/
+cypress/screenshots/
+
+# Configuração de IDE
+.vscode/
+.idea/
+
+# Arquivos temporários do SO
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache
+.cache/
+.next/
+
+# Binários e build outputs
+dist/
+target/

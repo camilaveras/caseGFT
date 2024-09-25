@@ -1,0 +1,19 @@
+{
+  "name": "Camila Veras",
+  "email": "camilatestetes10@example.com",
+  "password": "password123",
+  "title": "Ms",
+  "birth_date": "01",
+  "birth_month": "01",
+  "birth_year": "1990",
+  "firstname": "Camila",
+  "lastname": "Veras",
+  "company": "ACME Corp",
+  "address1": "123 Main Street",
+  "address2": "Suite 100",
+  "country": "United States",
+  "zipcode": "10001",
+  "state": "NY",
+  "city": "New York",
+  "mobile_number": "1234567890"
+}
